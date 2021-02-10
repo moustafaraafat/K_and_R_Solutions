@@ -19,13 +19,6 @@ int main(void)
 		}
 		prevC = currC;
 	}
-	
-	/*
-	Keep receiving till EOF, 
-	print c
-	if c == ' '
-	keep eating up spaces, till you hit a different character.
-	*/
 
     return(0);
 }
